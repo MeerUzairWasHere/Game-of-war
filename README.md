@@ -17,7 +17,7 @@ JavaScript
 
 Deck of Cards API
 
-#Features
+# Features
 
 Responsive design
 
@@ -29,7 +29,7 @@ Shuffling and dealing logic provided by Deck of Cards API
 
 Simple game mechanics based on classic card game
 
-#How-to-Play
+# How-to-Play
 
 Click "New Deck" to fetch a shuffled deck of cards from the Deck of Cards API and start a new game.
 
