@@ -8,22 +8,33 @@ The project uses modern web development tools and techniques, including responsi
 # Technologies-Used
 
 HTML
+
 CSS
+
 JavaScript
+
 Deck of Cards API
 
 # Features
 
 Responsive design
+
 Asynchronous programming with Promises
+
 Modular code organization
+
 Shuffling and dealing logic provided by Deck of Cards API
+
 Simple game mechanics based on classic card game
 
 # How-to-Play
 
 Click "New Deck" to fetch a shuffled deck of cards from the Deck of Cards API and start a new game.
+
 Click "Draw Card" to draw a card from both the user's and the computer's pile.
+
 Compare the two cards to determine the winner of the round.
+
 If the user wins, they take both cards and add them to their pile. If the computer wins, the opposite happens. In case of a tie, both cards remain on the table and another round is played.
+
 Repeat steps 2-4 until one player has all 52 cards, at which point they are declared the winner.
